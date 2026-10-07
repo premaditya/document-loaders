@@ -1,0 +1,569 @@
+
+============================================================
+PDF LOADER
+============================================================
+Loader executed successfully!!
+Number of Documents: 27
+
+----Document 0-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+#205, 2nd Floor, Fortune 
+Signature, Near JNTU 
+Metro Station, Kukatpally, 
+Hyderabad, Telangana 
+500085
+Hyderabad-JNTU
+2nd Floor, Beside Victoria 
+Memorial Metro Station, Pillar 
+No.1623 Narsimhapuri Colony 
+Arch, Kothapet, Hyderabad, 
+Telangana 500035
+Hyderabad-Dilshuknagar
+2nd Floor, Sai Sayaji Apartment, 
+201 Paud Rd, beside VANAZ 
+Metro, above Bata showroom, 
+Ramkrishna Paramhans Nagar, 
+Kothrud, Pune, Maharashtra 
+411038
+Pune 
+NO.576/B, 3rd FLOOR, 
+Swetha Arcade, Service 
+Road, 100 FT ROAD
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 0, 'page_label': '1'}
+
+----Document 1-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+/74+91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 1, 'page_label': '2'}
+
+----Document 2-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 2, 'page_label': '3'}
+
+----Document 3-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 3, 'page_label': '4'}
+
+----Document 4-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 4, 'page_label': '5'}
+
+----Document 5-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 5, 'page_label': '6'}
+
+----Document 6-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 6, 'page_label': '7'}
+
+----Document 7-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 7, 'page_label': '8'}
+
+----Document 8-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 8, 'page_label': '9'}
+
+----Document 9-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 9, 'page_label': '10'}
+
+----Document 10-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 10, 'page_label': '11'}
+
+----Document 11-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 11, 'page_label': '12'}
+
+----Document 12-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 12, 'page_label': '13'}
+
+----Document 13-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 13, 'page_label': '14'}
+
+----Document 14-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 14, 'page_label': '15'}
+
+----Document 15-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 15, 'page_label': '16'}
+
+----Document 16-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 16, 'page_label': '17'}
+
+----Document 17-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 17, 'page_label': '18'}
+
+----Document 18-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 18, 'page_label': '19'}
+
+----Document 19-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 19, 'page_label': '20'}
+
+----Document 20-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 20, 'page_label': '21'}
+
+----Document 21-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 21, 'page_label': '22'}
+
+----Document 22-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 22, 'page_label': '23'}
+
+----Document 23-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 23, 'page_label': '24'}
+
+----Document 24-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 24, 'page_label': '25'}
+
+----Document 25-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 25, 'page_label': '26'}
+
+----Document 26-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
++91 9951666670/71/72/74
+
+Metadata:
+{'producer': 'Adobe PDF library 16.00', 'creator': 'Adobe Illustrator 25.4 (Windows)', 'creationdate': '2025-07-07T12:30:21+06:30', 'author': 'MEENA DEGALA', 'moddate': '2025-07-07T12:30:22+05:30', 'title': 'PDF', 'source': 'data/sample_pdf.pdf', 'total_pages': 27, 'page': 26, 'page_label': '27'}
+
+============================================================
+TEXT LOADER
+============================================================
+Loader executed successfully!!
+Number of Documents: 1
+
+----Document 0-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+Artificial Intelligence is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, understanding language, and recognizing patterns.
+
+Machine Learning is a major area of Artificial Intelligence. It allows computers to learn patterns from data instead of being explicitly programmed for every task. Common machine learning techniques include supervised learning, unsu
+
+Metadata:
+{'source': 'data/sample.txt'}
+
+============================================================
+DOCX LOADER
+============================================================
+Loader executed successfully!!
+Number of Documents: 1
+
+----Document 0-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+Screenless Display: The Future of Visual Technology
+
+Abstract
+
+The rapid advancement of display technology has led to the emergence of screenless displays, an innovative approach that eliminates traditional screens while still providing visual information. This paper explores the concept, types, applications, advantages, and challenges associated with screenless displays. It also discusses future trends and potential impacts on various industries.
+
+1. Introduction
+
+Screenless display technology 
+
+Metadata:
+{'source': 'data/sample.docx'}
+
+============================================================
+CSV LOADER
+============================================================
+Loader executed successfully!!
+Number of Documents: 13
+
+----Document 0-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 0
+Unnamed: 0.2: 0.0
+Unnamed: 0.1: 0.0
+Unnamed: 0: 0.0
+movieId: 1
+title: Toy Story (1995)
+genres: ['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 0}
+
+----Document 1-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 1
+Unnamed: 0.2: 1.0
+Unnamed: 0.1: 1.0
+Unnamed: 0: 1.0
+movieId: 2
+title: Jumanji (1995)
+genres: ['Adventure', 'Children', 'Fantasy']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 1}
+
+----Document 2-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 2
+Unnamed: 0.2: 2.0
+Unnamed: 0.1: 2.0
+Unnamed: 0: 2.0
+movieId: 3
+title: Grumpier Old Men (1995)
+genres: ['Comedy', 'Romance']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 2}
+
+----Document 3-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 3
+Unnamed: 0.2: 3.0
+Unnamed: 0.1: 3.0
+Unnamed: 0: 3.0
+movieId: 6
+title: Heat (1995)
+genres: ['Action', 'Crime', 'Thriller']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 3}
+
+----Document 4-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 4
+Unnamed: 0.2: 4.0
+Unnamed: 0.1: 4.0
+Unnamed: 0: 4.0
+movieId: 7
+title: Sabrina (1995)
+genres: ['Comedy', 'Romance']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 4}
+
+----Document 5-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 5
+Unnamed: 0.2: 5.0
+Unnamed: 0.1: 5.0
+Unnamed: 0: 5.0
+movieId: 10
+title: GoldenEye (1995)
+genres: ['Action', 'Adventure', 'Thriller']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 5}
+
+----Document 6-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 6
+Unnamed: 0.2: 6.0
+Unnamed: 0.1: 6.0
+Unnamed: 0: 6.0
+movieId: 11
+title: American President, The (1995)
+genres: ['Comedy', 'Drama', 'Romance']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 6}
+
+----Document 7-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 7
+Unnamed: 0.2: 7.0
+Unnamed: 0.1: 7.0
+Unnamed: 0: 7.0
+movieId: 16
+title: Casino (1995)
+genres: ['Crime', 'Drama']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 7}
+
+----Document 8-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 8
+Unnamed: 0.2: 8.0
+Unnamed: 0.1: 8.0
+Unnamed: 0: 8.0
+movieId: 17
+title: Sense and Sensibility (1995)
+genres: ['Drama', 'Romance']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 8}
+
+----Document 9-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 9
+Unnamed: 0.2: 9.0
+Unnamed: 0.1: 9.0
+Unnamed: 0: 9.0
+movieId: 19
+title: Ace Ventura: When Nature Calls (1995)
+genres: ['Comedy']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 9}
+
+----Document 10-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 10
+Unnamed: 0.2: 
+Unnamed: 0.1: 
+Unnamed: 0: 
+movieId: 10
+title: GoldenEye (1995)
+genres: ['Action', 'Adventure', 'Thriller']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 10}
+
+----Document 11-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 11
+Unnamed: 0.2: 
+Unnamed: 0.1: 
+Unnamed: 0: 
+movieId: 11
+title: American President, The (1995)
+genres: ['Comedy', 'Drama', 'Romance']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 11}
+
+----Document 12-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+: 12
+Unnamed: 0.2: 
+Unnamed: 0.1: 
+Unnamed: 0: 
+movieId: 12
+title: Dracula: Dead and Loving It (1995)
+genres: ['Comedy', 'Horror']
+
+Metadata:
+{'source': 'data/sample.csv', 'row': 12}
+
+============================================================
+YOUTUBE LOADER
+============================================================
+Loader executed successfully!!
+Number of Documents: 1
+
+----Document 0-----
+Type:
+<class 'langchain_core.documents.base.Document'>
+
+Page Content:
+during the CSS Stone Age developers were creating layouts with floats and positioning until one fateful day flexbox would be introduced and the world would never be the same to use flexbox first we need a container and some children in our HTML then in our CSS we can go straight to the bottom of the file ignoring all of the base tiles and give the container the display of flex this created two invisible axes a main axis and a cross axis our items are no longer stacked on top of one another becau
+
+Metadata:
+{'source': 'phWxA89Dy94'}

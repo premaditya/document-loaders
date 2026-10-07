@@ -1,0 +1,7 @@
+Artificial Intelligence is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, understanding language, and recognizing patterns.
+
+Machine Learning is a major area of Artificial Intelligence. It allows computers to learn patterns from data instead of being explicitly programmed for every task. Common machine learning techniques include supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers. Deep learning models are widely used in areas such as image classification, speech recognition, natural language processing, and recommendation systems.
+
+Generative AI is another important area of modern Artificial Intelligence. Generative AI models can create new content such as text, images, audio, and code based on patterns learned from large datasets. Retrieval-Augmented Generation, commonly called RAG, combines information retrieval with a language model to generate responses using external knowledge.

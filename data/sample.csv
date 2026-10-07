@@ -1,0 +1,14 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,movieId,title,genres
+0,0.0,0.0,0.0,1,Toy Story (1995),"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy']"
+1,1.0,1.0,1.0,2,Jumanji (1995),"['Adventure', 'Children', 'Fantasy']"
+2,2.0,2.0,2.0,3,Grumpier Old Men (1995),"['Comedy', 'Romance']"
+3,3.0,3.0,3.0,6,Heat (1995),"['Action', 'Crime', 'Thriller']"
+4,4.0,4.0,4.0,7,Sabrina (1995),"['Comedy', 'Romance']"
+5,5.0,5.0,5.0,10,GoldenEye (1995),"['Action', 'Adventure', 'Thriller']"
+6,6.0,6.0,6.0,11,"American President, The (1995)","['Comedy', 'Drama', 'Romance']"
+7,7.0,7.0,7.0,16,Casino (1995),"['Crime', 'Drama']"
+8,8.0,8.0,8.0,17,Sense and Sensibility (1995),"['Drama', 'Romance']"
+9,9.0,9.0,9.0,19,Ace Ventura: When Nature Calls (1995),['Comedy']
+10,,,,10,GoldenEye (1995),"['Action', 'Adventure', 'Thriller']"
+11,,,,11,"American President, The (1995)","['Comedy', 'Drama', 'Romance']"
+12,,,,12,Dracula: Dead and Loving It (1995),"['Comedy', 'Horror']"
